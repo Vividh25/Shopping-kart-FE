@@ -1,7 +1,7 @@
 .product {
 	display: flex;
 	flex-direction: column;
-	background-color: #59948f;
+	background-color: #CAE4DB;
 	align-items: center;
 	justify-content: flex-end;
 	margin: 10px;
@@ -10,7 +10,8 @@
 	max-height: 400px;
 	min-width: 500px;
 	z-index: 1;
-	border-radius: 20px;
+	/* border: 1 px solid gray; */
+	border-radius: 0px;
 
 	
 }
@@ -39,11 +40,11 @@
 }
 
 .product > button {
-	background-color: #c7d889;
+	background-color: #0F3057;
 	border: 1px solid;
 	margin-top: 5px;
-	color: #111;
-	border-color:  #c7d889;
-	padding: 3px 6px;
+	color: white;
+	border-color:  #0F3057;
+	padding: 8px;
 	border-radius: 50px;
 }

@@ -85,7 +85,11 @@ header{
     margin-bottom: 20px;
     display: flex;
     padding: 10px;
-    background-color: #c7d889;
+    background-color: #5463FF;
+    color: white;
+    font-weight: lighter;
+    border: none;
+    border-radius: 10px;
  }
  .signInForm {
      display: flex;

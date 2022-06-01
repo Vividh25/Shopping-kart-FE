@@ -4,14 +4,14 @@
 	margin-right: auto;
 	margin-left: auto;
 	max-width: 1500px;
-	background-color: rgb(174, 178, 199);
+	background-color: #0F3057;
 	
 }
 
 .home__image {
 	width: 100%;
 	z-index: -1;
-	margin-bottom: -270px;
+	margin-bottom: -200px;
 	mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
 }
 .home__row {
